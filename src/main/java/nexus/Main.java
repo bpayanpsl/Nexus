@@ -20,6 +20,7 @@ public class Main {
 		} catch (Exception e) {
 			LOG.trace(e.getMessage());
 		} finally {
+			conn1.close();
 			if (conn1 != null) {
 				LOG.trace("Connected with connection #1");
 			}
