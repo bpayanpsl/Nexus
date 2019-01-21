@@ -11,7 +11,7 @@ public class Main {
 
 	private static final Logger LOG = LoggerFactory.getLogger(Main.class);
 
-	public static void main(String[] args) throws SQLException, ClassNotFoundException {
+	public static void main(String[] args) throws SQLException {
 
 		Connection conn1 = null;
 		String dbURL1 = "jdbc:oracle:thin:tiger/scott@localhost:1521:productD8";
