@@ -1,0 +1,6 @@
+projectKey=fr.dta:nexus
+serverUrl=http://localhost:9000
+serverVersion=6.7.6.38781
+dashboardUrl=http://localhost:9000/dashboard/index/fr.dta:nexus
+ceTaskId=AWhb8zg_dhpMHDqdvk0t
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWhb8zg_dhpMHDqdvk0t
